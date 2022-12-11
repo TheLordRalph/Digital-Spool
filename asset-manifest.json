@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52f433bb.css",
+    "main.js": "/static/js/main.cb61ab95.js",
+    "static/js/787.8b7eb542.chunk.js": "/static/js/787.8b7eb542.chunk.js",
+    "static/media/categoria11.jpg": "/static/media/categoria11.6397116905521f2b8f74.jpg",
+    "static/media/categoria10.jpg": "/static/media/categoria10.03219135525214aa3e9e.jpg",
+    "static/media/categoria09.jpg": "/static/media/categoria09.e34b37e1bfd409d8e491.jpg",
+    "static/media/categoria08.jpg": "/static/media/categoria08.75b8101586210d96730a.jpg",
+    "static/media/categoria06.jpg": "/static/media/categoria06.6642adb0d26dc1094ef3.jpg",
+    "static/media/categoria01.jpg": "/static/media/categoria01.89c32def790a41499044.jpg",
+    "static/media/categoria03.jpg": "/static/media/categoria03.0fdbb4f5269db92a4377.jpg",
+    "static/media/categoria05.jpg": "/static/media/categoria05.d082910067ee1e7957e3.jpg",
+    "static/media/categoria02.jpg": "/static/media/categoria02.9b303a6618192d4992b4.jpg",
+    "static/media/categoria07.jpg": "/static/media/categoria07.b388ead90afe0b081e9b.jpg",
+    "static/media/categoria04.jpg": "/static/media/categoria04.7679fe0ab525b85432d8.jpg",
+    "index.html": "/index.html",
+    "main.52f433bb.css.map": "/static/css/main.52f433bb.css.map",
+    "main.cb61ab95.js.map": "/static/js/main.cb61ab95.js.map",
+    "787.8b7eb542.chunk.js.map": "/static/js/787.8b7eb542.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52f433bb.css",
+    "static/js/main.cb61ab95.js"
+  ]
+}
