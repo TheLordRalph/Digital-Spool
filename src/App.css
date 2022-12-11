@@ -1,0 +1,91 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-float infinite 3s ease-in-out;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: rgb(112, 76, 182);
+}
+
+@keyframes App-logo-float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.active {
+  color: #43A4DA !important;
+}
+
+.styleAnimationContainer {
+  margin-bottom: 40% !important;
+}
+
+.styleAnimationDetail {
+  transform: translateY(0%) !important;
+  z-index: 1 !important;
+}
+
+.styleAnimationIcon {
+  transform: rotateZ(180deg);
+}
+
+.MuiImageList-masonry {
+  column-count: 1 !important;
+}
+.modalImage {
+  width: 90vw;
+  height: -moz-available;
+}
+@media (min-width: 600px) {
+  .MuiImageList-masonry {
+    column-count: 2 !important;
+  }
+  .modalImage {
+    width: 40vw;
+
+  }
+}
+@media (min-width: 1000px) {
+  .MuiImageList-masonry {
+    column-count: 3 !important;
+  }
+  .modalImage {
+    width: 28vw;
+
+  }
+}
+@media (min-width: 1700px) {
+  .MuiImageList-masonry {
+    column-count: 4 !important;
+  }
+  .modalImage {
+    width: 18vw;
+
+  }
+}
