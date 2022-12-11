@@ -13,7 +13,7 @@ function App() {
       <Header />
       <main>
         <Routes>
-          <Route path='/' element={<Home />}></Route>
+          <Route path='/Digital-Spool' element={<Home />}></Route>
           <Route path='/favorite-photos' element={<Favorite />}></Route>
         </Routes>
       </main>
